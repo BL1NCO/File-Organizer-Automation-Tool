@@ -71,7 +71,3 @@ Downloads/
 - Real-time folder monitoring
 - Duplicate file detection
 - Logging and reporting
-
-## 📄 License
-
-This project is licensed under the MIT License.
